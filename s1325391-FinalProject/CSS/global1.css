@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    line-height: normal;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
+  
+  :root {
+    /* fonts */
+    --font-newsreader: Newsreader;
+    --font-inter: Inter;
+    --font-inria-serif: "Inria Serif";
+  
+    /* font sizes */
+    --font-size-11xl: 30px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-midnightblue: rgba(16, 15, 57, 0.76);}
